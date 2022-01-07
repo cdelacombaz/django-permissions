@@ -1,0 +1,7 @@
+name: django_permissions
+dependencies:
+  - python=3.10.0
+  - pip=21.2.4
+  - pip:
+      - Django==4.0.1
+      - djangorestframework==3.13.1
